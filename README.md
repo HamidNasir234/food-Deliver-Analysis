@@ -1,4 +1,4 @@
-# food-Deliver-Analysis
+# food-Delivery-Analysis
 A deep dive into 130k+ food orders exploring Veg vs Non-Veg KPIs and State-wise trends, Monthly trend analysis performed.
 # Project Overview:
 Analysis of a food delivery dataset containing over 139,000 rows. Cleaned data issues including misaligned columns,duplicat rows and character encoding.
